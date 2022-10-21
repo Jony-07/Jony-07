@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Jony Edenilson Morales López. 
 
 <p align="center">
-  <img src="https://github.com/Jony-07/Jony-07/blob/main/coding.gif" alt="animated" width="800" height="400"/>
+  <img src="https://github.com/Jony-07/Jony-07/blob/main/coding.gif" alt="animated" width="100%" height="80%" style="position:absolute" allowFullScreen/>
 </p>
 
 > - 🔭 I’m currently working at  [Progress-Mind](https://github.com/Gissela25/Progress-mind) and [Mio-Pharma](https://github.com/Gissela25/ProyectoDSE-mioPharma)
 
 > - 🌱 I’m currently learning React Native and ASP-NET Core
-
 
 <!--
 
