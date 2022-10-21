@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jony Edenilson Morales López. 
 
 <p align="center">
-  <img src="https://github.com/Jony-07/Jony-07/blob/main/giphy.gif" alt="animated" />
+  <img src="https://github.com/Jony-07/Jony-07/blob/main/coding.gif" alt="animated" width="800" height="400"/>
 </p>
 
 > - 🔭 I’m currently working at  [Progress-Mind](https://github.com/Gissela25/Progress-mind) and [Mio-Pharma](https://github.com/Gissela25/ProyectoDSE-mioPharma)
