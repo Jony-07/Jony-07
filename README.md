@@ -6,9 +6,16 @@
 
 ## About me
 
+### Who I am ?
+
+  My full name is Jony Edenilson Morales López and I have twenty-one years old. My developer nickname is  Jdev. I am currently studying computer engineering 
+  and I really like web development (I like the backend better). 
+ 
+### A little resume
+
 - 🔭 I’m currently working at  [Progress-Mind](https://github.com/Gissela25/Progress-mind) and [Mio-Pharma](https://github.com/Gissela25/ProyectoDSE-mioPharma)
 
-- 🌱 I’m currently learning React Native and ASP-NET Core
+- 🌱 I’m currently learning React Native, ASP-NET Core and English
 
 - 👾 I'm want to learn Kotlin and Python
 
@@ -24,6 +31,8 @@ const Jdev = {
 ```
 
 <!--
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
