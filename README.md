@@ -4,7 +4,7 @@
   <img src="https://github.com/Jony-07/Jony-07/blob/main/coding.gif" alt="animated" width="100%" height="80%" style="position:absolute" allowFullScreen/>
 </p>
 
-## Know me
+## About me
 
 - 🔭 I’m currently working at  [Progress-Mind](https://github.com/Gissela25/Progress-mind) and [Mio-Pharma](https://github.com/Gissela25/ProyectoDSE-mioPharma)
 
@@ -12,7 +12,7 @@
 
 - 👾 I'm want to learn Kotlin and Python
 
-##  About me
+###  A little more about me
 
 ```javascript
 const Jdev = {
