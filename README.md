@@ -18,7 +18,7 @@
 const Jdev = {
   pronouns: "sir" | "his" | "he",
   code: [Javascript, HTML, CSS, C#, ASP-NET Core, Csharp, PHP],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Git],
   architecture: ["model-view-controller"];
 }
 ```
