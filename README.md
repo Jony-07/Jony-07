@@ -4,29 +4,26 @@
   <img src="https://github.com/Jony-07/Jony-07/blob/main/coding.gif" alt="animated" width="100%" height="80%" style="position:absolute" allowFullScreen/>
 </p>
 
-> - 🔭 I’m currently working at  [Progress-Mind](https://github.com/Gissela25/Progress-mind) and [Mio-Pharma](https://github.com/Gissela25/ProyectoDSE-mioPharma)
+## Know me
 
-> - 🌱 I’m currently learning React Native and ASP-NET Core
+- 🔭 I’m currently working at  [Progress-Mind](https://github.com/Gissela25/Progress-mind) and [Mio-Pharma](https://github.com/Gissela25/ProyectoDSE-mioPharma)
 
-<!--
+- 🌱 I’m currently learning React Native and ASP-NET Core
+
+- 👾 I'm want to learn Kotlin and Python
+
+##  About me
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+const Jdev = {
+  pronouns: "sir" | "his" | "he",
+  code: [Javascript, HTML, CSS, C#, ASP-NET Core, Csharp, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  architecture: ["model-view-controller"];
 }
 ```
 
-**Jony-07/Jony-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
