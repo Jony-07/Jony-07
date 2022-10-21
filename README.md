@@ -6,9 +6,9 @@
 
 ## About me
 
-### Who I am ?
+### <img src="https://media0.giphy.com/media/xULW8N1gBOKIWuIka4/giphy.gif" width="50"> Who I am ?
 
-  My full name is Jony Edenilson Morales López and I have twenty-one years old. My developer nickname is  Jdev. I am currently studying computer engineering 
+>  My full name is Jony Edenilson Morales López and I have twenty-one years old. My developer nickname is  Jdev. I am currently studying computer engineering 
   and I really like web development (I like the backend better). 
  
 ### A little resume
@@ -19,7 +19,7 @@
 
 - 👾 I'm want to learn Kotlin and Python
 
-###  A little more about me
+### <img src="https://media0.giphy.com/media/KtWBUkpyp5QRBlrLFd/giphy.gif" width="50">    A little more about me...  
 
 ```javascript
 const Jdev = {
@@ -30,9 +30,12 @@ const Jdev = {
 }
 ```
 
+## Skills
+
+
 <!--
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">   A little more about me...  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
