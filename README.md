@@ -13,9 +13,9 @@
  
 ### <img src="https://media1.giphy.com/media/l4jsKDLGiOxQRy3WbE/giphy.gif?cid=ecf05e47bvvnnrrpm9rhf7m9864t3kkhvkoov8rdh9dosxur&rid=giphy.gif&ct=s" width="50"> A little resume
 
-- 🔭 I’m currently working at  [Progress-Mind](https://github.com/Gissela25/Progress-mind) and [Mio-Pharma](https://github.com/Gissela25/ProyectoDSE-mioPharma)
+- 🔭 I’m currently working at  [SS-SCS](https://github.com/Gissela25/SS-SCS)
 
-- 🌱 I’m currently learning React Native, ASP-NET Core and English
+- 🌱 I’m currently learning English
 
 - 👾 I'm want to learn Kotlin and Python
 
