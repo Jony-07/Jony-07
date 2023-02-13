@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working at  [SS-SCS](https://github.com/Gissela25/SS-SCS)
 
-- 🌱 I’m currently learning English
+- 🌱 I’m currently learning English and Kotlin
 
 - 👾 I'm want to learn Kotlin and Python
 
