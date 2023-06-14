@@ -13,15 +13,17 @@
  
 ### <img src="https://media1.giphy.com/media/l4jsKDLGiOxQRy3WbE/giphy.gif?cid=ecf05e47bvvnnrrpm9rhf7m9864t3kkhvkoov8rdh9dosxur&rid=giphy.gif&ct=s" width="50"> A little resume
 
-- 🔭 I’m currently working at  [SS-SCS](https://github.com/Gissela25/SS-SCS)
+ <!-- 🔭 I’m currently working at  [SS-SCS](https://github.com/Gissela25/SS-SCS) 
 
-- 🌱 I’m currently learning English and Kotlin
+-->
 
-- 👾 I'm want to learn Kotlin and Python
+- 🌱 I’m currently learning English 
+
+- 👾 I'm want to learn React Js and Python
 
 ### <img src="https://media0.giphy.com/media/KtWBUkpyp5QRBlrLFd/giphy.gif" width="50">    A little more about me...  
 
-```javascript
+```kotlin
 const Jdev = {
   pronouns: "sir" | "his" | "he",
   code: [Javascript, HTML, CSS, C#, ASP-NET Core, Csharp, PHP],
