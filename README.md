@@ -23,9 +23,8 @@
 
 ### <img src="https://media0.giphy.com/media/KtWBUkpyp5QRBlrLFd/giphy.gif" width="50">    A little more about me...  
 
-```kotlin
+```typescript
 const Jdev = {
-  pronouns: "sir" | "his" | "he",
   code: [Javascript, HTML, CSS, C#, ASP-NET Core, Csharp, PHP],
   tools: [React, Git],
   architecture: ["model-view-controller"];
